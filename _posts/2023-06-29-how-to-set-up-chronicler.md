@@ -1,5 +1,5 @@
 ---
-title: How to set up Chronicler$^©$ development for the first time
+title: How to set up Chronicler™ development for the first time
 author: tim
 date: 2023-06-29 11:33:00 +0800
 categories: [chronicler, tutorial]
@@ -12,16 +12,34 @@ image:
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
-How to set up chronicler for development
+How to set up Chronicler for development
 
 ## What's up ale
 
 1. install [**VSCodium**](https://vscodium.com/) (cuz fuck microsoft & their proprietary [**spyware**](https://www.youtube.com/watch?v=iq6hbY_fzYg) VSCode)
    - **optional:** in the 'Extension' tabs in VSCodium, install "Svelte for VS Code" and "Tailwind CSS IntelliSense"
    
-## Setting up VSCode
+## Setting up VSCodium
 1. go to 'Source Control' and click 'Clone Repository'
 2. put in the GitHub repo: <https://github.com/TimothySamson/chronicler>
-3. 
 
-
+## Setting up node.js & npm
+1. Install [**node.js**](https://nodejs.org/en)
+2. Open your command prompt, navigate to the project root directory, and install dependencies
+```console
+$ cd chronicler
+/chronicler $ npm install
+```
+3. Build the project, then preview the project
+```console
+/chronicler $ npm run build
+/chronicler $ npm run preview
+```
+4. Follow instructions in the console to view the sitein your browser. It should say
+```console
+> chronicler@0.0.0 preview
+> vite preview
+ ➜  Local:   http://localhost:4173/chronicler/
+ ➜  Network: use --host to expose
+```
+but your port number might be different.
