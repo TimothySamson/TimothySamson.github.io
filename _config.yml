@@ -18,9 +18,9 @@ timezone: America/Los_Angeles
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Timothy Samson # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: here for the vibes & the rich need to be taxed # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -37,12 +37,11 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Timothy Samson
+  email: timothy.gab.samson@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://github.com/TimothySamson # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -72,15 +71,16 @@ google_analytics:
 #
 theme_mode: light
 
+# the avatar on sidebar, support local or CORS resources
+avatar: /avatar.jpg
+
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://chirpy-img.netlify.app"
+img_cdn: "/assets"
 
-# the avatar on sidebar, support local or CORS resources
-avatar: /commons/avatar.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
