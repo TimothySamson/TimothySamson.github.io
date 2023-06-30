@@ -9,15 +9,16 @@ math: true
 mermaid: true
 image:
   path: /img/chronicler-logo.jpg
-  alt: Responsive rendering of Chirpy theme on multiple devices.
+  alt: Here there be dragons
 ---
 
-How to set up Chronicler for development
+How to set up Chronicler for development. 
 
 ## What's up ale
 
 1. install [**VSCodium**](https://vscodium.com/) (cuz fuck microsoft & their proprietary [**spyware**](https://www.youtube.com/watch?v=iq6hbY_fzYg) VSCode)
    - **optional:** in the 'Extension' tabs in VSCodium, install "Svelte for VS Code" and "Tailwind CSS IntelliSense"
+   - **optional, and highly recommended**: install 'vim' (look for the one with ~100k installs) extension and become superhuman
    
 ## Setting up VSCodium
 1. go to 'Source Control' and click 'Clone Repository'
