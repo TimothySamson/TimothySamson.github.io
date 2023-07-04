@@ -37,9 +37,6 @@ github:
 twitter:
   username: twitter_username # change to your twitter username
 
-linkedin:
-  username: timothy-samson-8242801a0
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -92,8 +89,7 @@ img_cdn: "/assets"
 toc: true
 
 comments:
-  active: disqus
-  # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
