@@ -20,4 +20,4 @@ package-lock.json
 
 # Misc
 assets/js/dist
-/_drafts/texfrag/*.tex
+_drafts/texfrag/*.tex
