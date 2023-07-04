@@ -1,5 +1,5 @@
 ---
-title: Fibonacci, Zero to Hero
+title: From Fibonacci to Haskell with some spicy mathematics
 author: tim
 date: 2023-06-30 11:33:00 +0800
 categories: [non-fiction, programming]
@@ -9,7 +9,7 @@ math: true
 mermaid: true
 image:
   path: /img/fibonacci-title.jpg
-  alt: Here there be dragons
+  alt: Certified AI free by Artificial Intelligence
 ---
 
 > If by chance I have omitted anything more or less proper or necessary, I beg
