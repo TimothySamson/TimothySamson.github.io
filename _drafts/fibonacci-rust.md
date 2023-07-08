@@ -10,6 +10,7 @@ mermaid: true
 image:
   path: /img/fibonacci-title.jpg
   alt: Here there be dragons
+published: false
 ---
 
 > If by chance I have omitted anything more or less proper or necessary, I beg
