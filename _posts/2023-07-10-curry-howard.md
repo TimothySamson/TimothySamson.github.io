@@ -1,7 +1,7 @@
 ---
 title: Curry - Howard - Lambek and the Isomorphism 
 author: tim
-date: 2023-07-06 11:33:00 +0800
+date: 2023-07-10 11:33:00 +0800
 categories: [non-fiction, programming]
 tags: [haskell, logic, math, programming, curry howard isomorphism, formal proof systems, propositions as types]
 pin: true
