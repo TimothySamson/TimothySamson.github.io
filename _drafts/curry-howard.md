@@ -7,6 +7,7 @@ tags: [haskell, logic, math, programming, curry howard isomorphism, formal proof
 pin: true
 math: true
 mermaid: true
+published: false
 image:
   path: /img/turtles-recursion.jpeg
   alt: It's turtles all the way down. Certified GPT-Free
