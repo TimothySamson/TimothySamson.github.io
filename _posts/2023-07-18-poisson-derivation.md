@@ -7,7 +7,6 @@ tags: [math, poisson distribution, bernoulli, binomial distribution, statistics 
 pin: true
 math: true
 mermaid: true
-published: false
 image:
   path: /img/poisson-title.jpeg
   alt: AI still can't do math (yet)
