@@ -14,9 +14,7 @@ image:
 
 How to set up Chronicler for development. 
 
-## What's up ale
-
-1. install [**VSCodium**](https://vscodium.com/) (cuz fuck microsoft & their proprietary [**spyware**](https://www.youtube.com/watch?v=iq6hbY_fzYg) VSCode)
+1. install [**VSCodium**](https://vscodium.com/)
    - **optional:** in the 'Extension' tabs in VSCodium, install "Svelte for VS Code" and "Tailwind CSS IntelliSense"
    - **optional, and highly recommended**: install 'vim' (look for the one with ~100k installs) extension and become superhuman
    
